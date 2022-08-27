@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation verified="yes">
+	<folder>img_1000_1399</folder>
+	<filename>PartA_01104.jpg</filename>
+	<path>C:\Users\18214\Desktop\img_1000_1399\01104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1260</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>143</ymin>
+			<xmax>551</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

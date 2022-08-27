@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>tmp</folder>
+	<filename>part2_000707.jpg</filename>
+	<path>C:\learning\hat\0730\tmp\part2_000707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>213</ymin>
+			<xmax>620</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

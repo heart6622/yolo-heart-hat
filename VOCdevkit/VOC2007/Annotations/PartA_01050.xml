@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation verified="yes">
+	<folder>&#24453;&#26631;&#27880;&#22270;&#29255;</folder>
+	<filename>PartA_01050.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\labellmg\&#22270;&#29255;&#26631;&#27880;\&#24453;&#26631;&#27880;&#22270;&#29255;\01050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>994</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>58</ymin>
+			<xmax>674</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>500-749</folder>
+	<filename>PartA_00616.jpg</filename>
+	<path>/home/shirley/biaozhu/labelImg-master/labelImg-master/500-749/616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1249</width>
+		<height>717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>121</ymin>
+			<xmax>673</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

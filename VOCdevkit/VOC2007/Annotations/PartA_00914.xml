@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>750-999</folder>
+	<filename>PartA_00914.jpg</filename>
+	<path>/media/zrcai/study/lab/0818data/750-999/750-999/914.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1028</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>215</ymin>
+			<xmax>88</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

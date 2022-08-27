@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>picture</folder>
+	<filename>PartA_00991.jpg</filename>
+	<path>/home/jingroup/guochuang/picture/991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1026</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>87</ymin>
+			<xmax>928</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

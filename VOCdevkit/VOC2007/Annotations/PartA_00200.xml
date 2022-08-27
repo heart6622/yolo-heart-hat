@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>0-249</folder>
+	<filename>PartA_00200.jpg</filename>
+	<path>/home/szk/data/0-249/200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1243</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>977</xmin>
+			<ymin>262</ymin>
+			<xmax>1015</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

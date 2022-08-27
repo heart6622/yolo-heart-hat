@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>250-499</folder>
+	<filename>PartA_00401.jpg</filename>
+	<path>/home/pengdezhi/&#25968;&#25454;&#26631;&#27880;/250-499/401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1029</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>207</ymin>
+			<xmax>107</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

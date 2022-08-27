@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>Img_2000</folder>
+	<filename>PartB_00064.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\dataset_2.0\Img_2000\Img_064.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2784</width>
+		<height>1856</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1525</xmin>
+			<ymin>656</ymin>
+			<xmax>1770</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>part2_000366.jpg</filename>
+	<path>D:\study\project\label_hat\VOCdevkit\VOC2022\JPEGImages\part2_000366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1460</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>461</ymin>
+			<xmax>1012</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

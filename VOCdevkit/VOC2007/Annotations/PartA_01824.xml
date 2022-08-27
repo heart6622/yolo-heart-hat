@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>500pic</folder>
+	<filename>PartA_01824.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\500pic\500pic\01824.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1259</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>647</xmin>
+			<ymin>118</ymin>
+			<xmax>669</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
